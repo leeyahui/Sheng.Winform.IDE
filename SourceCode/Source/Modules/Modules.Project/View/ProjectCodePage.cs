@@ -4,14 +4,10 @@ QQ：279060597
 访问博客了解详细介绍及更多内容：   
 http://blog.shengxunwei.com
 **********************************************/
-using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Text;
 using Sheng.SailingEase.Infrastructure;
 using Sheng.SailingEase.Modules.ProjectModule.Localisation;
-using Microsoft.Practices.ServiceLocation;
 namespace Sheng.SailingEase.Modules.ProjectModule.View
 {
     class ProjectCodePage

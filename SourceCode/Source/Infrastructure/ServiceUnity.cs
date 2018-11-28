@@ -4,13 +4,10 @@ QQ：279060597
 访问博客了解详细介绍及更多内容：   
 http://blog.shengxunwei.com
 **********************************************/
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using Microsoft.Practices.Unity;
-using Microsoft.Practices.ServiceLocation;
 using Microsoft.Practices.Composite.Events;
+using Microsoft.Practices.ServiceLocation;
+
 namespace Sheng.SailingEase.Infrastructure
 {
     public class ServiceUnity

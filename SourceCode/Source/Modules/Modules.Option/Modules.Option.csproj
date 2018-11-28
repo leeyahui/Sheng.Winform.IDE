@@ -10,8 +10,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Sheng.SailingEase.Modules.OptionModule</RootNamespace>
     <AssemblyName>Modules.Option</AssemblyName>
-    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -36,6 +37,9 @@
     </Reference>
     <Reference Include="CompositeExtensions.Unity">
       <HintPath>..\..\..\ThirdPartyLib\CAL\CompositeExtensions.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
     <Reference Include="Microsoft.Practices.Composite">
       <HintPath>..\..\..\ThirdPartyLib\CAL\Microsoft.Practices.Composite.dll</HintPath>

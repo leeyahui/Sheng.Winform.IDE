@@ -9,7 +9,6 @@
 //    - it was also the only mode supported by the early DockPanelSuite versions used by SharpDevelop 1.x
 
 using System;
-using System.Diagnostics;
 using System.Drawing;
 using System.Windows.Forms;
 using Microsoft.Practices.Composite.Events;
@@ -20,7 +19,6 @@ using Sheng.SailingEase.Controls.Docking;
 using Sheng.SailingEase.Controls.Extensions;
 using Sheng.SailingEase.Infrastructure;
 using Sheng.SailingEase.Kernal;
-using Sheng.SailingEase.Shell.Localisation;
 using Sheng.SailingEase.Win32;
 
 namespace Sheng.SailingEase.Shell.View

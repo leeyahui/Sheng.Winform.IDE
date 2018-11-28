@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 
 using System.IO;
 using Sheng.SailingEase.Infrastructure;
-using Microsoft.Practices.ServiceLocation;
 
 namespace Sheng.SailingEase.Modules.StartPageModule.View
 {
